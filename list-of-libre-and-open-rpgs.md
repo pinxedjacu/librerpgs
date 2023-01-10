@@ -26,7 +26,9 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [Ironsworn](https://www.ironswornrpg.com/) - some of their materials are under a NonCommercial license only, but others are fully CC BY.
 * [Open Adventure](https://github.com/openadventure/Open-Adventure) git-hackable and everything.
 * [Sad Press SRD Collection](https://sadpress.itch.io/sad-press-srd-collection) - several small games.
-* 
+* [So1um](https://github.com/brunobord/so1um).
+* [Tunnel Goons](https://natetreme.itch.io/tunnelgoons).
+
 
 
 
@@ -36,6 +38,11 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 
 * [6D6](https://6d6rpg.com/reviews/), and [license](https://6d6rpg.com/share-your-pdfs/).
 * [Cairn](https://cairnrpg.com/) and [SRD](https://cairnrpg.com/cairn-srd/).
+* [Siren RPG Beta](https://github.com/ElectricCoffee/SirenRPG).
+* [Tango](https://sites.google.com/site/tangorpgsystem/home).
+* [The Simple Game System](https://tsgs.atomicunicycle.com/).
+* [Tiny D10](https://td10.org/wiki/Main_Page).
+* [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice).
 
 ### Games using GPL License
 
