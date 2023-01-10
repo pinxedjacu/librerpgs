@@ -43,13 +43,21 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [The Simple Game System](https://tsgs.atomicunicycle.com/).
 * [Tiny D10](https://td10.org/wiki/Main_Page).
 * [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice).
+* [Wushu](http://danielbayn.com/wushu/).
 
 ### Games using GPL License
 
 * [BIND RPG](https://gitlab.com/bindrpg/core).
 * [Pirate Party Flyerbook](https://www.1w6.org/english/flyerbook-rules) which uses their [1d6 system](https://www.1w6.org/english). If you know German, they're looking for translators.
+* [YAGS](https://www.notasnark.net/yags/index) - Yet Another Game System, sounds something along the line of GURPS.
 
 
 ## Public Domain RPGs
 
 * [Aurora RPG Engine](https://lynxthoughts.com/aurora/), CC0.
+* [Codename Spandex](https://gurbintrollgames.wordpress.com/codename-spandex/).
+* [Four Color System](https://www.drivethrurpg.com/product/50837/Four-Color-System-Core-Rules).
+
+## Credits
+
+The initial bulk of games populating this list comes from [Zireael07's](https://github.com/Zireael07/awesome-tabletop-rpgs) awesome ttrpg list. If you don't care about what licenses the games are under, it's a good list to check out.
