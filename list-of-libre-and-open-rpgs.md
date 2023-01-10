@@ -20,7 +20,7 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 ### Games using CC BY-SA License
 
 * [6D6](https://6d6rpg.com/reviews/), and [license](https://6d6rpg.com/share-your-pdfs/)
-* [Cairn](https://cairnrpg.com/ and [SRD](https://cairnrpg.com/cairn-srd/)
+* [Cairn](https://cairnrpg.com/) and [SRD](https://cairnrpg.com/cairn-srd/)
 
 ### Games using GPL License
 
