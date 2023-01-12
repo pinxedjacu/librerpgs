@@ -1,5 +1,5 @@
-# librerpg
-A project aiming to promote true open and free roleplay gaming. #LibreRPG
+# librerpgs
+A project aiming to promote true open and free roleplay gaming. #LibreRPGs
 
 ## Purpose
 
@@ -25,7 +25,7 @@ Some people have rallied together under the hashtag of #OpenDnD. You can see wha
 
 The problem is that there is at least one key flaw in the current OGL 1.0a that appears to allow WotC to retroactively *deauthorize* every game published using that license. Namely the license lacks an explicit statement on *irrevocability*. This means that even if WotC dropped OGL 1.1 now, they would still have the power make more restrictions in the future. Returning to the status quo is not a solution to this problem.
 
-## LibeRPG's Initiative
+## LibeRPGs Initiative
 
 What #LibreRPG proposes, and will build toward is:
 
