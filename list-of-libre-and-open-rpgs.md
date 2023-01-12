@@ -28,6 +28,7 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [Sad Press SRD Collection](https://sadpress.itch.io/sad-press-srd-collection) - several small games.
 * [So1um](https://github.com/brunobord/so1um).
 * [Tunnel Goons](https://natetreme.itch.io/tunnelgoons).
+* [ORC](https://vajraenterprises.com/new/?p=132) - Organic Rules Components.
 
 
 
@@ -37,6 +38,7 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 ### Games using CC BY-SA License
 
 * [6D6](https://6d6rpg.com/reviews/), and [license](https://6d6rpg.com/share-your-pdfs/).
+* [BOLT RPG Engine](https://ajeypandey.itch.io/bolt-rpg-engine).
 * [Cairn](https://cairnrpg.com/) and [SRD](https://cairnrpg.com/cairn-srd/).
 * [Siren RPG Beta](https://github.com/ElectricCoffee/SirenRPG).
 * [Tango](https://sites.google.com/site/tangorpgsystem/home).
