@@ -27,7 +27,7 @@ The problem is that there is at least one key flaw in the current OGL 1.0a that 
 
 ## LibeRPGs Initiative
 
-What #LibreRPG proposes, and will build toward is:
+What #LibreRPGs proposes, and will build toward is:
 
 1. Providing info for licenses that will be more robust in protecting open and free gaming - this matter is open to discusion but as an initial baseline, such licenses should be ones authored and actively maintained by legal experts, and be ones that are from nonprofit organizations whose very goal *is the preservation of free and open resources*.
 
