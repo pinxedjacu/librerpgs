@@ -10,7 +10,6 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 
 * [2400](https://jasontocci.itch.io/2400) and their [SRD](https://jasontocci.itch.io/24xx).
 * [Blades in the Dark](https://bladesinthedark.com/) - their [SRD](https://bladesinthedark.com/node/33).
-* [Castles & Crusades](https://www.trolllord.com/tlgstore/#!/Castles-&-Crusades-Players-Handbook-7th-Printing-Digital-Standard-Cover/p/89198194/category=11639170) - *maybe.* Their licensing setup is a little confusing. They seem to have materials (mainly the Player Handbook) available under multiple licenses. The one printed in the back of the Player Handbook is OGL 1.0a, but on their [website](https://trolllord.com/3rd-party-publishing/) they have CC BY too.
 * [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System).
 * [Cyberrats](https://alrine.itch.io/cyberrats) CC BY licensed, but it's based on [LUMEN](https://gilarpgs.itch.io/lumen), which I have not been able to find a definitive license for. It deserves a closer look because *a lot* of games are based on it.
 * [D6 Pool Modern](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest), "Prep Fast, Play Fast."
