@@ -24,10 +24,12 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [FATE Polyhedral](https://www.dropbox.com/s/5hl8z4kjvbhrbxf/Fate%20Polyhedral%20Edition.pdf?dl=0), a modified version of FATE that uses polyhedral dice.
 * [Five by Five](https://www.drivethrurpg.com/product/115748/Five-by-Five?manufacturers_id=5581).
 * [Forge Engine](https://www.heroforgegames.com/forge-engine/).
+* [For the Queen](https://forthequeengame.com/).
 * [Freeform Universal](https://www.perilplanet.com/freeform-universal/).
 * [GAME](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf)(PDF) Generic Action Mediation System.
 * [Gratitude](https://alrine.itch.io/gratitude-a-horror-game) - a horror game. Creator kit is [here](https://alrine.itch.io/gratitude-creators-kit).
 * [GUMSHOE SRD](https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/).
+* [Harmony Drive](https://peachgardengames.itch.io/harmony-drive).
 * [Heroes of Adventure](https://nameless-designer.itch.io/heroes-of-adventure).
 * [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire).
 * [Ironsworn](https://www.ironswornrpg.com/) - some of their materials are under a NonCommercial license only, but others are fully CC BY.
@@ -36,6 +38,7 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [So1um](https://github.com/brunobord/so1um).
 * [Tunnel Goons](https://natetreme.itch.io/tunnelgoons).
 * [ORC](https://vajraenterprises.com/new/?p=132) - Organic Rules Components.
+* [Worlds of Legacy SRD](https://ufopress.co.uk/the-world-of-legacy-srd/).
 
 
 
@@ -78,4 +81,5 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 
 ## Credits
 
-The initial bulk of games populating this list comes from [Zireael07's](https://github.com/Zireael07/awesome-tabletop-rpgs) awesome ttrpg list. If you don't care about what licenses the games are under, it's a good list to check out.
+* [Zireael07's list](https://github.com/Zireael07/awesome-tabletop-rpgs) - The initial bulk of games populating this list comes from Zireael07's Awesome ttrpg list. If you don't care about what licenses the games are under, it's an Awesome list to check out.
+* [E Chris Garrison's list](https://sillyhatbooks.com/other-stuff/games/) - unfortunately the majority of links were broken here, but I did find a few games to add, so I'm including it.
