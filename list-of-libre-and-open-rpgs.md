@@ -175,3 +175,4 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [E Chris Garrison's list](https://sillyhatbooks.com/other-stuff/games/) - unfortunately the majority of links were broken here, but I did find a few games to add, so I'm including it.
 * [Micro RPG Catalog](https://github.com/brunobord/micro-rpg-catalog).
 * [RPG Net Open Game List](https://wiki.rpg.net/index.php/Open_Game_Systems).
+* [FOSsil Bank](http://fossilbank.wikidot.com/category:tabletop-game-libre/) - absolutely fantastic list(s).
