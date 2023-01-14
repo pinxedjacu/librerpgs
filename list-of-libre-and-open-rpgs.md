@@ -24,6 +24,7 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [D6 Pool Modern](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest), "Prep Fast, Play Fast."
 * [Death Takes a Holiday](http://nickwedig.libraryofhighmoon.com/2013/06/death-takes-a-holiday-major-revision/).
 * [Department Nine](http://nickwedig.libraryofhighmoon.com/2010/12/department-nine/).
+* [Devil, John Moulton, The](http://nickwedig.libraryofhighmoon.com/2014/04/the-devil-john-moulton/).
 * [DramaSystem SRD](https://pelgranepress.com/2013/09/19/dramasystem-srd/).
 * [Dulse](https://www.dropbox.com/s/rnpalw06sp5s0te/dulse.pdf?dl=0) - [author page](https://bullypulpitgames.com/pages/jason-morningstar?_pos=1&_sid=5e3e2c114&_ss=r).
 * [Dungeon World](https://dungeon-world.com/) - Their [Github Project](https://github.com/Sagelt/Dungeon-World), [SRD](https://www.dungeonworldsrd.com/),  and a web-based copy of their [book](http://book.dwgazetteer.com/index.html).
@@ -54,11 +55,22 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [Myriad](https://www.drivethrurpg.com/product/29196/Myriad-RPG-System).
 * [Nameless Horror](http://nickwedig.libraryofhighmoon.com/2013/10/nameless-horror-version-0-2/).
 * [Not-Too-Silly Stories](http://fossilbank.wikidot.com/work:not-too-silly-stories).
+* [One Shot](https://docs.google.com/document/d/1YtTisR9yJWoIMSAWxbM4sGLTc0Fopqn8gcwjGoykKzc/edit?pli=1).
 * [Open Adventure](https://github.com/openadventure/Open-Adventure) git-hackable and everything.
+* [Powers for Good](https://www.drivethrurpg.com/product/126205/Powers-For-Good-%230).
+* [Providence Junction LARP](http://nickwedig.libraryofhighmoon.com/2010/12/providence-junction/).
+* [Return to Maniac Mansion](http://nickwedig.libraryofhighmoon.com/2011/11/return-to-maniac-mansion/).
 * [Sad Press SRD Collection](https://sadpress.itch.io/sad-press-srd-collection) - several small games.
+* [Science Fiction Mystery LARP](http://nickwedig.libraryofhighmoon.com/2010/12/science-fiction-mystery/).
+* [Second String Superheroes LARP](http://nickwedig.libraryofhighmoon.com/2010/12/second-string-superheroes/).
 * [So1um](https://github.com/brunobord/so1um).
+* [So Now You're a Time Traveler](http://nickwedig.libraryofhighmoon.com/2013/08/so-now-youre-a-time-traveler/).
+* [STaMTaR](http://www.1km1kt.net/rpg/stamtar).
+* [Sufficiently Advanced Technologies LARP](http://nickwedig.libraryofhighmoon.com/2011/01/sufficiently-advanced-technologies/).
+* [Super Repo](http://nickwedig.libraryofhighmoon.com/2013/01/super-repo/).
 * [Tunnel Goons](https://natetreme.itch.io/tunnelgoons).
 * [ORC](https://vajraenterprises.com/new/?p=132) - Organic Rules Components.
+* [Unsung Tales](https://www.unsungtales.com/).
 * [World of Fire and Sand, A](http://nickwedig.libraryofhighmoon.com/2010/12/a-world-of-fire-and-sand/).
 * [Worlds of Legacy SRD](https://ufopress.co.uk/the-world-of-legacy-srd/).
 
@@ -88,9 +100,11 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [Daring Adventures](http://www.1km1kt.net/rpg/daring-adventures).
 * [Death of the Japanese Emperor](https://docs.google.com/document/d/1b6yyX1O9pTgaIgPt1d7JUzCXCXn24gPXxhxgoWKkbMI/edit?pli=1).
 * [Donjon](https://web.archive.org/web/20071013075848/http://open.crngames.com/src/donjon.html).
+* [Dreaming Crucible, The](https://storybythethroat.wordpress.com/games/).
 * [Eben Fantasy Essence](https://www.drivethrurpg.com/product/364050/Ebon-Fantasy-Essence) - and their [main website](https://ebongryphon.com/main/).
 * [Enter the Avenger](https://sites.google.com/site/sitodirafu/Home/i-miei-giochi/enter-the-avenger).
 * [FAST](https://retroroleplaying.com/content/fast-rpg/).
+* [Fifth World, The](https://thefifthworld.com/).
 * [Fortune SRD](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/).
 * [Fortune Cookies and Nuclear War](http://nickwedig.libraryofhighmoon.com/wp-content/uploads/2011/03/fortune-cookies2.pdf).
 * [FUBAR - Director's Cut](https://vulpinoid.blogspot.com/2011/05/fubar-directors-cut-now-available.html).
@@ -102,23 +116,33 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [Midgard](http://fossilbank.wikidot.com/work:midgard).
 * [MurderHobos](https://www.drivethrurpg.com/product/129865/MurderHobos).
 * [Neon Skylines](https://squidhead-games.itch.io/neon-skylines).
+* [Phantom 52](http://www.1km1kt.net/rpg/phanton-52).
+* [Quest-ions](http://www.1km1kt.net/rpg/quest-ions).
 * [RAWE](http://redash.org/) - Red Ashe World Engine.
+* [Scrabblenauts](http://nickwedig.libraryofhighmoon.com/2011/11/scrabblenauts/) - RPG played with Scrabble pieces.
+* [Shackled Self, The](http://www.1km1kt.net/rpg/the-shackled-self).
 * [Shadow of Yesterday](https://mattmachell.github.io/minimum-viable-ebook/examples/tsoy/index.html).
 * [Shadows](https://mozai.com/writing/not_mine/shadows.html).
 * [Siren RPG Beta](https://github.com/ElectricCoffee/SirenRPG).
 * [Super Notecard Adventures](https://github.com/brunobord/micro-rpg-catalog/blob/master/super-notecard-adventure.md)
+* [Synergy](http://www.1km1kt.net/rpg/synergy).
 * [Tango](https://sites.google.com/site/tangorpgsystem/home).
 * [The Simple Game System](https://tsgs.atomicunicycle.com/).
 * [Tiny D10](https://td10.org/wiki/Main_Page).
+* [TSGS](http://tower.newcenturycomputers.net/tsgs.html).
 * [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice).
 * [VERS](https://jason-murray.itch.io/vers-rpg).
+* [Uncharted Worlds](https://uncharted-worlds.com/).
 * [Warrior and Wizard](https://docs.google.com/document/d/1nc1rtATXRxKSpoK-AHplyJ4QsB3JK0qbAfBs3wXZIkM/edit#heading=h.h4lak2wv2jnv).
+* [Weird World](https://docs.google.com/document/d/1dK62F-kakCCLHhVwyjU2WVSxYELvdw-g16CgE8WkOMU/edit).
+* [Witless Minion](http://www.1km1kt.net/rpg/witless-minion).
 * [Wushu](http://danielbayn.com/wushu/) - also has a supplement, [Wushu Open Reloaded](http://wiki.saberpunk.net/Wushu/OpenReloaded).
 
 ### Games using GPL License
 
 * [BIND RPG](https://gitlab.com/bindrpg/core).
 * [HYPeR](https://ynam.tripod.com/hyper/index.html).
+* [Osprey](https://www.ludism.org/rpg/osprey.pdf).
 * [Pirate Party Flyerbook](https://www.1w6.org/english/flyerbook-rules) which uses their [1d6 system](https://www.1w6.org/english). If you know German, they're looking for translators.
 * [YAGS](https://www.notasnark.net/yags/index) - Yet Another Game System, sounds something along the line of GURPS.
 
@@ -132,7 +156,18 @@ If you know of a compatible rpg that's not already on this list, *please let us 
 * [Enchanted Realms](https://archive.org/details/enchanted-realms/mode/2up).
 * [Four Color System](https://www.drivethrurpg.com/product/50837/Four-Color-System-Core-Rules).
 * [Midian Dark Fantasy Core Set](https://midian.fandom.com/wiki/Dark_Fantasy_Core_Set). - the DFCS is public domain, the rest of their content is under some weird homebrew license.
+* [Pantheon](http://www.1km1kt.net/rpg/pantheon).
 * [Super Hero Fun](https://archive.org/details/super-hero-fun/mode/2up).
+
+## Not RPGs but...
+
+* [WTactics](http://wtactics.org/) - a community hub for collaboratively creating card and boardgames. As of yet they don't seem to have any RPGs, but all of their projects are under open and libre licenses, and it's just *that cool* of a project. Sub-projects:
+* * [Arcmage](https://arcmage.org/).
+* * [gaia](http://gaia.li/).
+* * [saga](http://saga.li/).
+* * [tinytactics](http://tinytactics.org/).
+* * [tinysquad](http://www.tinysquad.org/).
+* * [emata](http://www.emata.org/).
 
 ## Credits
 
